@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.gaobujob.cn/sitemap.xml
